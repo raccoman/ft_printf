@@ -35,4 +35,4 @@ raccoman@student.42roma.it
 [issues-shield]: https://img.shields.io/github/issues/raccoman/ft_printf?style=for-the-badge
 [issues-url]: https://github.com/raccoman/ft_printf/issues
 [license-shield]: https://img.shields.io/github/license/raccoman/ft_printf?style=for-the-badge
-[license-url]: https://github.com/raccoman/ft_printf/blob/master/LICENSE.txt
+[license-url]: https://github.com/raccoman/ft_printf/blob/master/LICENSE
