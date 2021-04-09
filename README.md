@@ -15,7 +15,7 @@
 </p>
 
 ## Evaluation
-Status: Finished<br/>Grade: ![42Score](https://badge42.herokuapp.com/api/project/raccoman/ft_printf)
+![42Score](https://badge42.herokuapp.com/api/project/raccoman/ft_printf)
 
 ## Contact
 This is my ft_printf project from the 42 cursus, need help:
