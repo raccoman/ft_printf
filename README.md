@@ -5,9 +5,9 @@
 [![MIT License][license-shield]][license-url]
 
 <p align="center">
-  <a href="https://42roma.it">
-    <img src="https://42roma.it/wp-content/uploads/2020/07/logo_white_small.png" width="220" height="100">
-  </a>
+  <p align="center">
+    <img src="https://badge42.herokuapp.com/api/stats/raccoman?privacyEmail=true"/>
+  </>
   <h3 align="center">FT_PRINTF</h3>
   <p align="center">
   This project aims to recode the original printf, and understand how variable are managed by the computer.
@@ -15,7 +15,7 @@
 </p>
 
 ## Evaluation
-Status: Finished<br/>Grade: 115/100
+Status: Finished<br/>Grade: ![42Score](https://badge42.herokuapp.com/api/project/raccoman/ft_printf)
 
 ## Contact
 This is my ft_printf project from the 42 cursus, need help:
